@@ -81,7 +81,7 @@ const savingHome = () => {
                 textAlign: "center",
               }}
             >
-              Have you Heard of AAVE? The non-custodial crypto thingy{" "}
+              Deposit your Assets into the Liquidity pool and earn Interest as an LP{" "}
               <a
                 href="https://aave.com/"
                 style={{ color: "#0066FF", fontSize: "25px" }}
